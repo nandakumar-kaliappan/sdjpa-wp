@@ -1,0 +1,2 @@
+## WordPress appication
+-jpa mapping
